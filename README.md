@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+As of right now (09/09/2026) I am working on a game engine built in rust for my computer science A-Level. 
+Fun fact: I nave _never_ used rust before, nor touched C++. 
+
+My actual experience with languages goes:
+1. Python
+2. C#
+3. Java
+
+Hope you have a nice rest of your day! 
+
 <!--
 **NoahGirling/NoahGirling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
